@@ -36,9 +36,15 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The historie of Orlando Furioso, one of the twelue pieres of France As it was plaid before the Queen
+
 #####Body#####
-The historie of Orlando Furioso, one of the twelue pieres of France As it was plaid before the Queen
+
+1. THE
+HISTORIE OF
+Orlando Furioso
+One of the twelue Pieres of
+France.
+
 **Types of content**
 
   * There are 1213 **verse** lines!
